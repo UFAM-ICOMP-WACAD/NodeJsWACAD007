@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "nodeES",
+			"path": "."
+		},
+		{
+			"name": "lorem",
+			"path": "../lorem"
+		},
+		{
+			"name": "NodeJsWACAD007",
+			"path": "../../../Atividade/NodeJsWACAD007"
+		}
+	],
+	"settings": {}
+}
